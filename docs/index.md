@@ -1,4 +1,4 @@
----
+---info@bnbchain.org
 hide:
 - navigation
 - toc
